@@ -1,0 +1,1 @@
+export const EXPORTED_CONST = 'const from module 10-3-1-module-export-simple';
